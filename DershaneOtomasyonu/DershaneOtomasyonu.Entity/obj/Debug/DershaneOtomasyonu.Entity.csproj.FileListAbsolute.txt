@@ -1,0 +1,15 @@
+C:\Users\gozde\documents\visual studio 2017\Projects\DershaneOtomasyonu\DershaneOtomasyonu.Entity\bin\Debug\DershaneOtomasyonu.Entity.dll
+C:\Users\gozde\documents\visual studio 2017\Projects\DershaneOtomasyonu\DershaneOtomasyonu.Entity\bin\Debug\DershaneOtomasyonu.Entity.pdb
+C:\Users\gozde\documents\visual studio 2017\Projects\DershaneOtomasyonu\DershaneOtomasyonu.Entity\obj\Debug\DershaneOtomasyonu.Entity.csprojResolveAssemblyReference.cache
+C:\Users\gozde\documents\visual studio 2017\Projects\DershaneOtomasyonu\DershaneOtomasyonu.Entity\obj\Debug\DershaneOtomasyonu.Entity.dll
+C:\Users\gozde\documents\visual studio 2017\Projects\DershaneOtomasyonu\DershaneOtomasyonu.Entity\obj\Debug\DershaneOtomasyonu.Entity.pdb
+C:\Users\gozde\Source\Workspaces\Workspace\DershaneOtomasyonu\DershaneOtomasyonu.Entity\bin\Debug\DershaneOtomasyonu.Entity.dll
+C:\Users\gozde\Source\Workspaces\Workspace\DershaneOtomasyonu\DershaneOtomasyonu.Entity\bin\Debug\DershaneOtomasyonu.Entity.pdb
+C:\Users\gozde\Source\Workspaces\Workspace\DershaneOtomasyonu\DershaneOtomasyonu.Entity\obj\Debug\DershaneOtomasyonu.Entity.csprojResolveAssemblyReference.cache
+C:\Users\gozde\Source\Workspaces\Workspace\DershaneOtomasyonu\DershaneOtomasyonu.Entity\obj\Debug\DershaneOtomasyonu.Entity.dll
+C:\Users\gozde\Source\Workspaces\Workspace\DershaneOtomasyonu\DershaneOtomasyonu.Entity\obj\Debug\DershaneOtomasyonu.Entity.pdb
+F:\DershaneOtomasyonu\DershaneOtomasyonu.Entity\bin\Debug\DershaneOtomasyonu.Entity.dll
+F:\DershaneOtomasyonu\DershaneOtomasyonu.Entity\bin\Debug\DershaneOtomasyonu.Entity.pdb
+F:\DershaneOtomasyonu\DershaneOtomasyonu.Entity\obj\Debug\DershaneOtomasyonu.Entity.csprojResolveAssemblyReference.cache
+F:\DershaneOtomasyonu\DershaneOtomasyonu.Entity\obj\Debug\DershaneOtomasyonu.Entity.dll
+F:\DershaneOtomasyonu\DershaneOtomasyonu.Entity\obj\Debug\DershaneOtomasyonu.Entity.pdb

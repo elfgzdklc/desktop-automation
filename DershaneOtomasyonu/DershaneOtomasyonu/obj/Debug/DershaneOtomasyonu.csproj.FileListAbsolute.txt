@@ -1,0 +1,62 @@
+c:\users\gozde\documents\visual studio 2017\Projects\DershaneOtomasyonu\DershaneOtomasyonu\bin\Debug\DershaneOtomasyonu.exe
+c:\users\gozde\documents\visual studio 2017\Projects\DershaneOtomasyonu\DershaneOtomasyonu\bin\Debug\DershaneOtomasyonu.pdb
+c:\users\gozde\documents\visual studio 2017\Projects\DershaneOtomasyonu\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.csprojResolveAssemblyReference.cache
+c:\users\gozde\documents\visual studio 2017\Projects\DershaneOtomasyonu\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.Form1.resources
+c:\users\gozde\documents\visual studio 2017\Projects\DershaneOtomasyonu\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.Properties.Resources.resources
+c:\users\gozde\documents\visual studio 2017\Projects\DershaneOtomasyonu\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.csproj.GenerateResource.Cache
+c:\users\gozde\documents\visual studio 2017\Projects\DershaneOtomasyonu\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.exe
+c:\users\gozde\documents\visual studio 2017\Projects\DershaneOtomasyonu\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.pdb
+c:\users\gozde\documents\visual studio 2017\Projects\DershaneOtomasyonu\DershaneOtomasyonu\bin\Debug\System.Windows.Forms.Ribbon35.dll
+c:\users\gozde\documents\visual studio 2017\Projects\DershaneOtomasyonu\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.Form2.resources
+C:\Users\gozde\documents\visual studio 2017\Projects\DershaneOtomasyonu\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.OgrenciKayit.resources
+C:\Users\gozde\documents\visual studio 2017\Projects\DershaneOtomasyonu\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.BasariListesi.resources
+C:\Users\gozde\documents\visual studio 2017\Projects\DershaneOtomasyonu\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.OgrenciBilgileri.resources
+C:\Users\gozde\documents\visual studio 2017\Projects\DershaneOtomasyonu\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.NotGirisi.resources
+C:\Users\gozde\documents\visual studio 2017\Projects\DershaneOtomasyonu\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.PersonelBilgileri.resources
+C:\Users\gozde\documents\visual studio 2017\Projects\DershaneOtomasyonu\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.PersonelKayit.resources
+C:\Users\gozde\Documents\Visual Studio 2017\Projects\DershaneOtomasyonu\DershaneOtomasyonu\bin\Debug\DershaneOtomasyonu.DAL.dll
+C:\Users\gozde\Documents\Visual Studio 2017\Projects\DershaneOtomasyonu\DershaneOtomasyonu\bin\Debug\DershaneOtomasyonu.Entity.dll
+C:\Users\gozde\Documents\Visual Studio 2017\Projects\DershaneOtomasyonu\DershaneOtomasyonu\bin\Debug\DershaneOtomasyonu.DAL.pdb
+C:\Users\gozde\Documents\Visual Studio 2017\Projects\DershaneOtomasyonu\DershaneOtomasyonu\bin\Debug\DershaneOtomasyonu.Entity.pdb
+C:\Users\gozde\Documents\Visual Studio 2017\Projects\DershaneOtomasyonu\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.SinifKaydet.resources
+C:\Users\gozde\Source\Workspaces\Workspace\DershaneOtomasyonu\DershaneOtomasyonu\bin\Debug\DershaneOtomasyonu.exe
+C:\Users\gozde\Source\Workspaces\Workspace\DershaneOtomasyonu\DershaneOtomasyonu\bin\Debug\DershaneOtomasyonu.pdb
+C:\Users\gozde\Source\Workspaces\Workspace\DershaneOtomasyonu\DershaneOtomasyonu\bin\Debug\DershaneOtomasyonu.DAL.dll
+C:\Users\gozde\Source\Workspaces\Workspace\DershaneOtomasyonu\DershaneOtomasyonu\bin\Debug\DershaneOtomasyonu.Entity.dll
+C:\Users\gozde\Source\Workspaces\Workspace\DershaneOtomasyonu\DershaneOtomasyonu\bin\Debug\System.Windows.Forms.Ribbon35.dll
+C:\Users\gozde\Source\Workspaces\Workspace\DershaneOtomasyonu\DershaneOtomasyonu\bin\Debug\DershaneOtomasyonu.DAL.pdb
+C:\Users\gozde\Source\Workspaces\Workspace\DershaneOtomasyonu\DershaneOtomasyonu\bin\Debug\DershaneOtomasyonu.Entity.pdb
+C:\Users\gozde\Source\Workspaces\Workspace\DershaneOtomasyonu\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\gozde\Source\Workspaces\Workspace\DershaneOtomasyonu\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.BasariListesi.resources
+C:\Users\gozde\Source\Workspaces\Workspace\DershaneOtomasyonu\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.OgrenciBilgileri.resources
+C:\Users\gozde\Source\Workspaces\Workspace\DershaneOtomasyonu\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.OgrenciKayit.resources
+C:\Users\gozde\Source\Workspaces\Workspace\DershaneOtomasyonu\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.NotGirisi.resources
+C:\Users\gozde\Source\Workspaces\Workspace\DershaneOtomasyonu\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.PersonelBilgileri.resources
+C:\Users\gozde\Source\Workspaces\Workspace\DershaneOtomasyonu\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.PersonelKayit.resources
+C:\Users\gozde\Source\Workspaces\Workspace\DershaneOtomasyonu\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.Properties.Resources.resources
+C:\Users\gozde\Source\Workspaces\Workspace\DershaneOtomasyonu\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.SinifKaydet.resources
+C:\Users\gozde\Source\Workspaces\Workspace\DershaneOtomasyonu\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.csproj.GenerateResource.Cache
+C:\Users\gozde\Source\Workspaces\Workspace\DershaneOtomasyonu\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.exe
+C:\Users\gozde\Source\Workspaces\Workspace\DershaneOtomasyonu\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.pdb
+C:\Users\gozde\Source\Workspaces\Workspace\DershaneOtomasyonu\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.KullaniciGiris.resources
+C:\Users\gozde\Source\Workspaces\Workspace\DershaneOtomasyonu\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.AnaSayfa.resources
+F:\DershaneOtomasyonu\DershaneOtomasyonu\bin\Debug\DershaneOtomasyonu.exe
+F:\DershaneOtomasyonu\DershaneOtomasyonu\bin\Debug\DershaneOtomasyonu.pdb
+F:\DershaneOtomasyonu\DershaneOtomasyonu\bin\Debug\DershaneOtomasyonu.DAL.dll
+F:\DershaneOtomasyonu\DershaneOtomasyonu\bin\Debug\DershaneOtomasyonu.Entity.dll
+F:\DershaneOtomasyonu\DershaneOtomasyonu\bin\Debug\DershaneOtomasyonu.DAL.pdb
+F:\DershaneOtomasyonu\DershaneOtomasyonu\bin\Debug\DershaneOtomasyonu.Entity.pdb
+F:\DershaneOtomasyonu\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.csprojResolveAssemblyReference.cache
+F:\DershaneOtomasyonu\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.BasariListesi.resources
+F:\DershaneOtomasyonu\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.KullaniciGiris.resources
+F:\DershaneOtomasyonu\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.AnaSayfa.resources
+F:\DershaneOtomasyonu\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.OgrenciBilgileri.resources
+F:\DershaneOtomasyonu\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.OgrenciKayit.resources
+F:\DershaneOtomasyonu\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.NotGirisi.resources
+F:\DershaneOtomasyonu\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.PersonelBilgileri.resources
+F:\DershaneOtomasyonu\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.PersonelKayit.resources
+F:\DershaneOtomasyonu\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.Properties.Resources.resources
+F:\DershaneOtomasyonu\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.SinifKaydet.resources
+F:\DershaneOtomasyonu\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.csproj.GenerateResource.Cache
+F:\DershaneOtomasyonu\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.exe
+F:\DershaneOtomasyonu\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.pdb

@@ -1,0 +1,21 @@
+C:\Users\gozde\documents\visual studio 2017\Projects\DershaneOtomasyonu\DershaneOtomasyonu.DAL\bin\Debug\DershaneOtomasyonu.DAL.dll
+C:\Users\gozde\documents\visual studio 2017\Projects\DershaneOtomasyonu\DershaneOtomasyonu.DAL\bin\Debug\DershaneOtomasyonu.DAL.pdb
+C:\Users\gozde\documents\visual studio 2017\Projects\DershaneOtomasyonu\DershaneOtomasyonu.DAL\bin\Debug\DershaneOtomasyonu.Entity.dll
+C:\Users\gozde\documents\visual studio 2017\Projects\DershaneOtomasyonu\DershaneOtomasyonu.DAL\bin\Debug\DershaneOtomasyonu.Entity.pdb
+C:\Users\gozde\documents\visual studio 2017\Projects\DershaneOtomasyonu\DershaneOtomasyonu.DAL\obj\Debug\DershaneOtomasyonu.DAL.csprojResolveAssemblyReference.cache
+C:\Users\gozde\documents\visual studio 2017\Projects\DershaneOtomasyonu\DershaneOtomasyonu.DAL\obj\Debug\DershaneOtomasyonu.DAL.dll
+C:\Users\gozde\documents\visual studio 2017\Projects\DershaneOtomasyonu\DershaneOtomasyonu.DAL\obj\Debug\DershaneOtomasyonu.DAL.pdb
+C:\Users\gozde\Source\Workspaces\Workspace\DershaneOtomasyonu\DershaneOtomasyonu.DAL\bin\Debug\DershaneOtomasyonu.DAL.dll
+C:\Users\gozde\Source\Workspaces\Workspace\DershaneOtomasyonu\DershaneOtomasyonu.DAL\bin\Debug\DershaneOtomasyonu.DAL.pdb
+C:\Users\gozde\Source\Workspaces\Workspace\DershaneOtomasyonu\DershaneOtomasyonu.DAL\bin\Debug\DershaneOtomasyonu.Entity.dll
+C:\Users\gozde\Source\Workspaces\Workspace\DershaneOtomasyonu\DershaneOtomasyonu.DAL\bin\Debug\DershaneOtomasyonu.Entity.pdb
+C:\Users\gozde\Source\Workspaces\Workspace\DershaneOtomasyonu\DershaneOtomasyonu.DAL\obj\Debug\DershaneOtomasyonu.DAL.csprojResolveAssemblyReference.cache
+C:\Users\gozde\Source\Workspaces\Workspace\DershaneOtomasyonu\DershaneOtomasyonu.DAL\obj\Debug\DershaneOtomasyonu.DAL.dll
+C:\Users\gozde\Source\Workspaces\Workspace\DershaneOtomasyonu\DershaneOtomasyonu.DAL\obj\Debug\DershaneOtomasyonu.DAL.pdb
+F:\DershaneOtomasyonu\DershaneOtomasyonu.DAL\bin\Debug\DershaneOtomasyonu.DAL.dll
+F:\DershaneOtomasyonu\DershaneOtomasyonu.DAL\bin\Debug\DershaneOtomasyonu.DAL.pdb
+F:\DershaneOtomasyonu\DershaneOtomasyonu.DAL\bin\Debug\DershaneOtomasyonu.Entity.dll
+F:\DershaneOtomasyonu\DershaneOtomasyonu.DAL\bin\Debug\DershaneOtomasyonu.Entity.pdb
+F:\DershaneOtomasyonu\DershaneOtomasyonu.DAL\obj\Debug\DershaneOtomasyonu.DAL.csprojResolveAssemblyReference.cache
+F:\DershaneOtomasyonu\DershaneOtomasyonu.DAL\obj\Debug\DershaneOtomasyonu.DAL.dll
+F:\DershaneOtomasyonu\DershaneOtomasyonu.DAL\obj\Debug\DershaneOtomasyonu.DAL.pdb
